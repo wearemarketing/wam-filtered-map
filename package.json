@@ -1,0 +1,17 @@
+{
+  "name": "map-filtered",
+  "version": "1.0.0",
+  "description": "Google maps integration with filtered markers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WAM",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-preset-es2015": "^6.24.0",
+    "gmaps": "^0.4.24",
+    "jquery": "^3.1.1"
+  }
+}
